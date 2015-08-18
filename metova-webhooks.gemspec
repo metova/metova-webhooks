@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["jami.couch@metova.com"]
 
   spec.summary       = "Webhook library for Rails"
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
+  spec.description   = spec.summary
   spec.homepage      = "http://github.com/metova/metova-webhooks"
   spec.license       = "MIT"
 
